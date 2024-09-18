@@ -20,7 +20,8 @@ python –m pytest
 
 ### coverage
 Analysiert die Testabdeckung
-Installation:	pip install coverage
+
+Installation:	`pip install coverage`
 
 Aufruf: 
 ```python
